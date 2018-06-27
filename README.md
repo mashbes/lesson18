@@ -1,6 +1,5 @@
 # lesson18
 
-
 APP clients
 	Client:
 		phone
@@ -25,10 +24,9 @@ APP orders
 		is_canselled = True/False
 	PriceTable:
 		hour_from
-    badweather = True/False
-    price
-
-    hours:
-    00.00 –  06.00 = 25
-    06.00 –  00.00 = 18
+    		badweather = True/False
+    		price
+		hours:
+    			00.00 –  06.00 = 25
+    			06.00 –  00.00 = 18
 
